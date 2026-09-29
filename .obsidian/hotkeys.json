@@ -1,0 +1,10 @@
+{
+  "workspace:new-window": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ]
+}
